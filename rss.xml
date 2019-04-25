@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>Mi canal de RSS</title>
+		<link>https://BeleneA.github.io/</link>
+		<description> Artículos de Marketing Digital</description>
+		<item>
+			<title>15 ejemplos de campañas de marketing de guerrilla</title>
+			<link>https://belenealonso.wordpress.com/2017/05/07/marketing-guerrilla-que-es-ejemplos/</link>
+			<description> Campañas de marketing de guerrilla que triunfaron</description>
+		</item>
+		
+		<item>
+			<title>Cómo optimizar la Experiencia de Usuario para mejorar el SEO </title>
+			<link>https://aulacm.com/optimizar-experiencia-usuario-mejorar-seo/</link>
+			<description>Cómo la experiencia de usuario puede afectar al SEO de una web y como optimizarlo a través de ella</description>
+		</item>
+		
+		<item>
+			<title>Dispara tu visibilidad en Instagram </title>
+			<link>https://www.40defiebre.com/dispara-visibilidad-instagram</link>
+			<description>Cómo ser mas visible en instagram</description>
+		</item>
+		
+		<item>
+			<title>La (mala) huella de una Marca Personal...¡Y sus peligros!</title>
+			<link>https://claudioinacio.com/2019/02/05/mala-huella/</link>
+			<description>Aprende sobre la importancia de tener una buena Marca Personal</description>
+		</item>
+		
+		<item>
+			<title>Por qué debemos usar el lenguaje inclusivo </title>
+			<link>http://www.claraavilac.com/2019/03/05/por-que-si-debemos-usar-el-lenguaje-inclusivo/</link>
+			<description>La importancia del uso del lenguaje inclusivo en redes sociales </description>
+		</item>
+	</channel>
+</rss>
